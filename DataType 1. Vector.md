@@ -6,17 +6,17 @@ data8 <-"343" ***<u>#character</u>***
 
 data9 <- 1 ***<u>#Numeric</u>***
 
-data10 <- 3L **<u>*#Integer*</u>**
+data10 <- 3L ***<u>#Integer</u>***
 
-data11 <- 1:10 <u>***#Integer***</u>
+data11 <- 1:10 ***<u>#Integer</u>***
 
 data12 <- seq(5,9, by = 1) **<u>*# 5부터 9까지 1만큼 증가</u>***
 
-data13 <- seq(9,5, by = -0.5) **<u># 9부터 5까지 0.5만큼 감소</u>**
+data13 <- seq(9,5, by = -0.5) ***<u># 9부터 5까지 0.5만큼 감소</u>***
 
-data14 <- seq(5,9, by = -1) **<u># 실행이 되지 않는다</u>**
+data14 <- seq(5,9, by = -1) ***<u># 실행이 되지 않는다</u>***
 
-data15 <- c("apple",1000,TRUE) **<u># character</u>**
+data15 <- c("apple",1000,TRUE) ***<u># character</u>***
 
  
 
