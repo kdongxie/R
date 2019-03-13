@@ -2,7 +2,7 @@
 
 ### Vector Type의 종류
 
-data8 <-"343" <u>***#character***</u>
+data8 <-"343" ***<u>#character</u>***
 
 data9 <- 1 ***<u>#Numeric</u>***
 
